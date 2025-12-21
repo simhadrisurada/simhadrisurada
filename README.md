@@ -5,7 +5,7 @@
 ---
 
 ### 📄 My Resume  
-- [Click to view my resume](https://drive.google.com/file/d/1p2da5qgA07mZBCWUwND_Rwwl8_zUG2aj/view?usp=sharing)
+- [Click to view my resume](https://drive.google.com/file/d/1Efzzjqhzs4usakHqnxa7qvF8pIViJvGv/view?usp=sharing)
 
 ### 🔭 Currently Working On:
 - A **Python-based grid survival game** built using Tkinter and Pygame
