@@ -36,7 +36,7 @@
 - **Tkinter**, Python GUI development  
 - Basics of **AI/ML**  
 - Improving problem-solving via DSA & competitive coding  
-
+- Networking , Browsers 
  ---
 
 ### 📫 Reach Me At
